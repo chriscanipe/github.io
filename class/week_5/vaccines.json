@@ -1,0 +1,16 @@
+{
+[
+  ["H.Influenza",20000.0,243.0],
+  ["Hepatitis A",117333.0,11049.0],
+  ["Hepatitis B",66232.0,11269.0],
+  ["Measles",530217.0,61.0],
+  ["Mumps",162344.0,982.0],
+  ["Pertussis",200752.0,13506.0],
+  ["Pneumococcal Disease",16069.0,4167.0],
+  ["Polio",16316.0,0.0],
+  ["Rubella",47745.0,4.0],
+  ["Congenital Rubella",152.0,1.0],
+  ["Small Pox",29005.0,0.0],
+  ["Tetanus",580.0,14.0]
+]
+}

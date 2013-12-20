@@ -1,0 +1,664 @@
+[
+	{
+		"category": "interactive",
+		"name": "dealtrack",
+		"title": "A (Very) Subprime Bond",
+		"text": "Subprime bond CWABS 2006-7 began as a bundle of nearly 6,000 mortgages in 2006. By 2013, fewer than a third remained.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424127887323423804579024612669517406.html?mod=WSJ_FiveYearsAftertheCrisis_LeadStorySecond#articleTabs%3Dinteractive"
+	}, {
+		"category": "interactive",
+		"name": "primary",
+		"title": "2013 NYC Mayoral Primary",
+		"text": "Mapping live results on primary election night using a live data feed from Associated Press.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://blogs.wsj.com/metropolis/2013/09/09/live-blog-nyc-primary-day-2013/tab/interactive/"
+	}, {
+		"category": "interactive",
+		"name": "samesex",
+		"title": "I Do's and Don'ts",
+		"text": "Twenty years of state and federal action on same sex marriage show the rate and direction of legislative change.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424127887324183204578564122131503346.html"
+	}, {
+		"category": "interactive",
+		"name": "visas",
+		"title": "Waiting for a Green Card",
+		"text": "Twenty years of State Department data shows that the wait for a green card varies greatly depending on one's family or job situation and the country from which they're immigrating.",
+		"role": "Reported, designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://blogs.wsj.com/washwire/2013/05/30/interactive-graphic-the-long-wait-for-a-green-card/"
+	}, {
+		"category": "interactive",
+		"name": "stamps",
+		"title": "Food Stamp Enrollment",
+		"text": "A sluggish job market, high poverty rate and changes to state programs contributed to rising food stamp enrollment during the recession. Every state tells a story in this interactive.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424127887323699704578328601204933288.html?mg=id-wsj#articleTabs%3Dinteractive"
+	}, {
+		"time": "3/12/2013 15:03:15",
+		"category": "interactive",
+		"name": "conclave",
+		"title": "The Changing Church",
+		"text": "The Catholic Church has changed dramatically in the past century, but  the cardinal electorate remains mostly European.",
+		"role": "Researched, designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://graphicsweb.wsj.com/conclave"
+	}, {
+		"time": "3/12/2013 15:06:13",
+		"category": "interactive",
+		"name": "asbestos",
+		"title": "A Matter of Trust",
+		"text": "Law firms that represent clients with asbestos-related illnesses often play advisory roles with the very settlement trusts from which they're seeking damages.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424127887323864304578318611662911912.html#project%3DTRUSTS0313%26articleTabs%3Dinteractive"
+	}, {
+		"time": "2/19/2013 7:47:32",
+		"category": "interactive",
+		"name": "cabinet",
+		"title": "Second-Term Cabinet Positions",
+		"text": "A dashboard view of the incoming and outgoing cabinet members and department heads at the start of Obama's second term. A Django admin tool allows reporters and editors to make changes to the project in real time.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://graphicsweb.wsj.com/documents/CABINET2012/"
+	}, {
+		"time": "2/19/2013 7:51:07",
+		"category": "interactive",
+		"name": "oscars",
+		"title": "2013 Oscar Ballot",
+		"text": "An interactive that lets you make your own Oscar predictions and share them with friends of Facebook and Twitter.",
+		"role": "Programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://graphics.wsj.com/oscar-ballot-2013/"
+	}, {
+		"time": "2/19/2013 7:56:42",
+		"category": "interactive",
+		"name": "deficit",
+		"title": "Choose Your Deficit Plan",
+		"text": "The Congressional Budget Office prescribed more than 60 potential legislative actions in 2012 to alleviate the deficit. This interactive lets readers try their own hand at making the hard choices, then share their solutions on Facebook and Twitter.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://projects.wsj.com/my-deficit-plan/"
+	}, {
+		"time": "2/19/2013 8:01:26",
+		"category": "interactive",
+		"name": "china",
+		"title": "China's Leadership Change",
+		"text": "A big picture view of China's 18th Communist Party Congress as they prepared to convene in Beijing in the Fall of 2012. The project was published in both English and Mandarin.",
+		"role": "Programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424052970203707604578090932446806300.html"
+	}, {
+		"time": "2/19/2013 8:03:13",
+		"category": "interactive",
+		"name": "remembering",
+		"title": "Remembering Fallen Troops",
+		"text": "An high school history teacher takes students on a journey through the past to learn the stories of Indiana's casualties of war.",
+		"role": "Designed and programmed.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10000872396390443890304578006682260044890.html#articleTabs%3Dinteractive"
+	}, {
+		"time": "2/19/2013 8:04:08",
+		"category": "interactive",
+		"name": "medals",
+		"title": "2012 Olympic Medal Count",
+		"text": "During two weeks of 2012 Olympic competition, 205 countries squared off in more than 300 events. The Journal's Olympic medal tracker mapped and sorted the results in real time using a live JSON feed from a third party provider.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://projects.wsj.com/olympics2012/london-medal-count/"
+	}, {
+		"time": "2/19/2013 8:05:14",
+		"category": "interactive",
+		"name": "outliers",
+		"title": "Olympic Outliers",
+		"text": "With so many exceptional athletes competing at the absolute peak of their ability, what characteristics define the best of the best? Using illustrations by Mike Sudal, this interactive explores some of the physical and genetic characteristics of Olympic champions.",
+		"role": "Programmed interactive. Illustrations and layout by Mike Sudal.",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10000872396390444405804577561160820695458.html"
+	}, {
+		"time": "2/19/2013 8:06:14",
+		"category": "interactive",
+		"name": "issues",
+		"title": "On the Issues",
+		"text": "Service journlism in its purist form: where the 2012 candidates for president stand on the issues.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10000872396390444464304577537342693367910.html"
+	}, {
+		"time": "2/19/2013 8:07:13",
+		"category": "interactive",
+		"name": "detroit",
+		"title": "Motor City Vacancy",
+		"text": "Detroit has suffered a dramatic decline in population in recent decades. The resulting vacant property glut has led to some novel experimentation with urban agriculture. This series of panoramic photos highlights some of Detroit's existing and proposed farms.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424052702304898704577479090390757800.html#articleTabs%3Dinteractive"
+	}, {
+		"time": "2/19/2013 8:10:04",
+		"category": "interactive",
+		"name": "japan",
+		"title": "Turning Japanese",
+		"text": "Japanese companies have been on an international buying spree. As big name companies all over the globe are swept up in mergers and acquisitions, this project shows the ten biggest deals each year since 1985.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424052702304373804577523120650113222.html"
+	}, {
+		"time": "2/19/2013 8:13:46",
+		"category": "interactive",
+		"name": "carousel",
+		"title": "The Carousel Template",
+		"text": "This template is broadly used at the Journal to publish gallery-type sets of copy and images. Editors and reporters can create, edit and publish their own projects using a Django admin tool.",
+		"role": "Designed and programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424127887323468604578251542346285544.html"
+	}, {
+		"time": "2/19/2013 8:14:51",
+		"category": "interactive",
+		"name": "workwear",
+		"title": "Work Wear",
+		"text": "From the monied hallways of high-power law firms to the water cooler break rooms of internet start-ups, Work Wear explores every day fashion in the work place.",
+		"role": "Programmed",
+		"publication": "The Wall Street Journal",
+		"url": "http://blogs.wsj.com/speakeasy/2012/08/01/work-wear-office-style-at-esquire/tab/interactive/"
+	}, {
+		"time": "2/19/2013 8:16:25",
+		"category": "interactive",
+		"name": "ground_zero",
+		"title": "A Decade after 9/11",
+		"text": "Ten years on, a series of 360 degree images gives readers everywhere a chance to explore the World Trade Center site from seven different vantage points, including the 64th floor of the rising One World Trade Center.",
+		"role": "Designed and created 360&#176; elements and callouts using Pano2VR",
+		"publication": "The Wall Street Journal",
+		"url": "http://online.wsj.com/article/SB10001424053111904716604576546571601601298.html"
+	}, {
+		"time": "2/19/2013 8:17:53",
+		"category": "interactive",
+		"name": "burden",
+		"title": "A Heavy Burden",
+		"text": "Did you know a U.S. Army combat medic carries 60 pounds of gear? This Flash interactive uses illustrations by Alberto Cuadra to show you the things they carry.",
+		"role": "Programmed in Flash while working as an intern at the Washington Post. Illustrations by Alberto Cuadra",
+		"publication": "The Washington Post",
+		"url": "http://www.washingtonpost.com/wp-srv/special/nation/a-heavy-burden-graphic/index.html"
+	}, {
+		"time": "2/19/2013 8:22:57",
+		"category": "interactive",
+		"name": "marathon",
+		"title": "Ready... Or Not",
+		"text": "What happens to the human body during a marathon? Depends on whether the runner is prepared. This Flash interactive uses illustrations by Alberto Cuadra to show the limits of the human body under extreme conditions.",
+		"role": "Programmed in Flash while interning at the Post. Illustrations by Alberto Cuadra",
+		"publication": "The Washington Post",
+		"url": "http://www.washingtonpost.com/wp-srv/special/section/Marine-Corps-Marathon-2010-Ready-or-not-graphic/index.html"
+	}, {
+		"time": "2/19/2013 8:24:07",
+		"category": "interactive",
+		"name": "election_map",
+		"title": "Election Results",
+		"text": "I got in way over my head when I committed to building an interactive election map for the Columbia Missourian. How hard could it be? Pretty hard as it turns out, especially when you don't really know how to program or work with JSON data. It took us weeks and a bit of outside help, but we managed to pull this together.",
+		"role": "Designed and programmed in Flash",
+		"publication": "Columbia Missourian",
+		"url": "http://www.columbiamissourian.com/multimedia/interactive-graphic/2010/04/07/interactive-map-election-results/"
+	}, {
+		"time": "2/23/2013 15:50:43",
+		"category": "graphic",
+		"name": "tea_party",
+		"title": "Tea Party Endorsements",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:51:34",
+		"category": "graphic",
+		"name": "write_ins",
+		"title": "Write-ins Lead",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:51:58",
+		"category": "graphic",
+		"name": "gender_gap",
+		"title": "Gender Gap",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:52:18",
+		"category": "graphic",
+		"name": "dollar",
+		"title": "Getting Less for Your Dollar",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:52:40",
+		"category": "graphic",
+		"name": "one_united",
+		"title": "One United Timeline",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:53:05",
+		"category": "graphic",
+		"name": "wp_poll",
+		"title": "Washington Post Polling",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:53:25",
+		"category": "graphic",
+		"name": "china_pollute",
+		"title": "Tai Lake, China",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:53:47",
+		"category": "graphic",
+		"name": "shanghai",
+		"title": "Shanghai Politics",
+		"text": "",
+		"role": "",
+		"publication": "The Washington Post, Fall 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:54:12",
+		"category": "graphic",
+		"name": "gallery_map",
+		"title": "Gallery Moves",
+		"text": "",
+		"role": "",
+		"publication": "The Wall Street Journal, Summer 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:54:40",
+		"category": "graphic",
+		"name": "death",
+		"title": "Age of Death",
+		"text": "",
+		"role": "",
+		"publication": "The Wall Street Journal, Summer 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:54:58",
+		"category": "graphic",
+		"name": "romania",
+		"title": "Transylvanian Travails",
+		"text": "",
+		"role": "",
+		"publication": "The Wall Street Journal, Summer 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:55:20",
+		"category": "graphic",
+		"name": "labs",
+		"title": "In the Labs",
+		"text": "",
+		"role": "",
+		"publication": "The Wall Street Journal, Summer 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:55:42",
+		"category": "graphic",
+		"name": "airport",
+		"title": "Passenger Numbers Improving",
+		"text": "",
+		"role": "",
+		"publication": "Columbia Missourian, Spring 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:56:06",
+		"category": "graphic",
+		"name": "state_union",
+		"title": "State of the Union by Content",
+		"text": "",
+		"role": "",
+		"publication": "Columbia Missourian, Spring 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:56:30",
+		"category": "graphic",
+		"name": "state_union2",
+		"title": "State of the Union Keywords",
+		"text": "",
+		"role": "",
+		"publication": "Columbia Missourian, Spring 2010",
+		"url": ""
+	}, {
+		"time": "2/23/2013 15:56:52",
+		"category": "graphic",
+		"name": "force",
+		"title": "Reviewing Force",
+		"text": "",
+		"role": "",
+		"publication": "Columbia Missourian, Fall 2009",
+		"url": ""
+	}, {
+		"time": "9/17/2013 8:31:26",
+		"category": "article",
+		"name": "visaStory",
+		"title": "The Long Wait for a Green Card",
+		"text": "May 2013",
+		"role": null,
+		"publication": "The Wall Street Journal",
+		"url": "http://blogs.wsj.com/washwire/2013/05/30/interactive-graphic-the-long-wait-for-a-green-card/"
+	}, {
+		"time": "2/23/2013 16:56:42",
+		"category": "article",
+		"name": "elk",
+		"title": "Missouri's History With the Elk",
+		"text": "November 2010",
+		"role": "",
+		"publication": "Missouri Conservationist",
+		"url": "http://mdc.mo.gov/conmag/2010/12/missouris-history-elk"
+	}, {
+		"time": "2/23/2013 16:57:16",
+		"category": "article",
+		"name": "quail2",
+		"title": "Calling All Quail",
+		"text": "September 2010",
+		"role": "",
+		"publication": "Missouri Conservationist",
+		"url": "http://mdc.mo.gov/conmag/2010/10-0/calling-all-quail"
+	}, {
+		"time": "2/23/2013 16:57:59",
+		"category": "article",
+		"name": "easement",
+		"title": "A Conservation Easement Keeps a Forest Intact",
+		"text": "July 2010",
+		"role": "",
+		"publication": "Missouri Conservationist",
+		"url": "http://mdc.mo.gov/conmag/2010/08/generations-come"
+	}, {
+		"time": "2/23/2013 16:58:49",
+		"category": "article",
+		"name": "corecv",
+		"title": "The Core of Conservation",
+		"text": "November 2010",
+		"role": "",
+		"publication": "Missouri Conservationist",
+		"url": "http://mdc.mo.gov/conmag/2010/06/core-conservation?page=0,0"
+	}, {
+		"time": "2/23/2013 16:59:25",
+		"category": "article",
+		"name": "colt",
+		"title": "COLT's small crew keeps big operation on the move",
+		"text": "May 21, 2010",
+		"role": "",
+		"publication": "Columbia Missourian",
+		"url": "http://www.columbiamissourian.com/stories/2010/05/21/colts-small-crew-keeps-big-operation-moving/"
+	}, {
+		"time": "2/23/2013 17:00:04",
+		"category": "article",
+		"name": "crime",
+		"title": "Crime Rate in Columbia Relatively Flat Since 2001",
+		"text": "May 29, 2010",
+		"role": "",
+		"publication": "Columbia Missourian",
+		"url": "http://www.columbiamissourian.com/stories/2010/03/29/crime-rate-columbia-steady-2001/"
+	}, {
+		"time": "2/23/2013 17:00:40",
+		"category": "article",
+		"name": "wade",
+		"title": "Mayoral Candidate Profile: Jerry Wade",
+		"text": "March 19, 2010",
+		"role": "",
+		"publication": "Columbia Missourian",
+		"url": "http://www.columbiamissourian.com/stories/2010/03/19/councilman-jerry-wade-vies-mayor/"
+	}, {
+		"time": "2/23/2013 17:01:31",
+		"category": "article",
+		"name": "sullivan",
+		"title": "Mayoral Candidate Profile: Sid Sullivan",
+		"text": "March 18, 2010",
+		"role": "",
+		"publication": "Columbia Missourian",
+		"url": "http://www.columbiamissourian.com/stories/2010/03/18/sullivan-brings-background-community-organizer-mayoral-campaign/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "matilda_100",
+		"title": "Our dog, Matilda",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://puppychowed.tumblr.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "bookarch_100",
+		"title": "Book Cover Archive",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://bookcoverarchive.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "bss_100",
+		"title": "Broken Social Scene",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.brokensocialscene.ca/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "designobserver_100",
+		"title": "Design Observer",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://designobserver.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "felton_100",
+		"title": "Nick Felton",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://feltron.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "futurama_100",
+		"title": "Futurama",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.ilovebender.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "niemann_100",
+		"title": "Christopher Niemann",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.christophniemann.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "grantland_100",
+		"title": "Grantland",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.grantland.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "wtf_100",
+		"title": "WTF Podcast",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.wtfpod.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "kottke_100",
+		"title": "Kottke.org",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.kottke.org"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "planetmoney_100",
+		"title": "NPR&#39;s Planet Money",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.npr.org/blogs/money/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "mcsweenys_100",
+		"title": "McSweeny&#39;s",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.mcsweeneys.net/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "moth_100",
+		"title": "The Moth",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://themoth.org/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "aiweiwei_100",
+		"title": "Ai Weiwei: Never Sorry",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.aiweiweineversorry.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "archer_100",
+		"title": "Archer",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.fxnetworks.com/shows/originals/archer/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "national_100",
+		"title": "The National",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.americanmary.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "romenesko_100",
+		"title": "Jim Romenesko",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://jimromenesko.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "otm_100",
+		"title": "On the Media",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.onthemedia.org/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "springsteen_100",
+		"title": "Bruce Springsteen",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.backstreets.com/news.html"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "sepinwall_100",
+		"title": "What&#39;s Alan Watching?",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.hitfix.com/whats-alan-watching"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "curiosity_100",
+		"title": "The Curiosity Rover",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.nasa.gov/mission_pages/msl/index.html"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "nosatiation_100",
+		"title": "No Satiation",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.nosatiation.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "538_100",
+		"title": "Five Thirty Eight",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://fivethirtyeight.blogs.nytimes.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "paisely_100",
+		"title": "Doug Paisely",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://dougpaisley.com/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "who_charted_100",
+		"title": "Who Charted?",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.earwolf.com/show/who-charted/"
+	}, {
+		"time": "2/23/2013 17:07:00",
+		"category": "like",
+		"name": "bangbang_100",
+		"title": "Comedy Bang Bang",
+		"text": "",
+		"role": "",
+		"publication": "",
+		"url": "http://www.earwolf.com/show/comedy-bang-bang/"
+	}
+]

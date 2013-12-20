@@ -1,0 +1,25 @@
+#chartGoesHere{
+	height: 1400px;
+	width: 700px;
+	position: absolute;
+	left: 8px;
+	top: -75px;
+}
+
+.population {
+	font-family: arial;
+	font-size: 13px;
+	color: blue;
+	text-align: center;
+}
+
+.toolTipText {
+	font-family: arial;
+	font-size: 13px;
+	padding: 4px;
+	text-align: center;
+}
+
+.flag {
+	width: 200px;
+}

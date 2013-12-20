@@ -1,0 +1,40 @@
+
+#contentHolder {
+	position: relative;
+	width: 550px;
+	height: 350px;
+	float: left;
+}
+
+.contentItem {
+	width: 550px;
+	height: 300px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#buttonHolder {
+	width: 104px;
+	height: 200px;
+	position: relative;
+	margin-top: 8px;
+	float: left;
+}
+
+.button {
+	width: 100px;
+	float: left;
+	margin: 4px;
+	text-align: center;
+	padding: 8px;
+	border: 1px solid #CCC;
+	cursor: pointer;
+	color: #CCC;
+}
+
+.navActive {
+	color: #333;
+	border: 1px solid #999;
+	font-weight: bold;
+}

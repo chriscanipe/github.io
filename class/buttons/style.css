@@ -1,0 +1,34 @@
+
+
+
+#contentHolder {
+	width: 550px;
+	height: 350px;
+	position: relative;
+	
+}
+
+.contentItem {
+	width: 550px;
+	height: 350px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.button {
+	padding: 8px;
+	border: 1px solid #CCC;
+	color: #CCC;
+	width: 100px;
+	text-align: center;
+	float: left;
+	margin: 8px;
+	cursor: pointer;
+	
+}
+
+.navActive {
+	color: red;
+	border: 1px solid red;
+}

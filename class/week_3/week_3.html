@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>New Web Project</title>
+	</head>
+	<body>
+		<h1>jQuery Project Page</h1>
+
+		<script>
+			$(document).ready(getDataAlso);
+
+			var stateData;
+
+			function getData() {
+				$.get("gunLaws.json", function(data) {
+					stateData = data.stateData;
+					listStates();
+				});
+			}
+
+			function getDataAlso() {
+				$.get("gunLaws.json", showMyJSON, "json");
+			}
+
+			function showMyJSON(data) {
+				console.log(data);
+			}
+
+			function listStates() {
+				$.each(stateData, function(i, item) {
+					console.log("State: " + item.state + " Pop: " + item.totalpop);
+				});
+			}
+
+		</script>
+
+	</body>
+</html>
+

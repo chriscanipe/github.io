@@ -1,0 +1,44 @@
+
+
+.container_12 {
+	height: 600px;
+	outline: 1px solid #999;
+}
+
+.grid_6 {
+	background-color: #E5E5E5;
+	height: 100%;
+}
+
+
+.rollBox {
+	width: 25px;
+	height: 25px;
+	z-index: 2;
+	background-color: #000;
+	position: absolute;
+}
+
+
+.rollNote {
+	padding: 4px;
+	background-color: white;
+	font-size: 1em;
+	font-family: arial;
+	position: absolute;
+}
+
+.content {
+	position: relative;
+}
+
+#boxOne {
+	top: 50px;
+	left: 150px;
+	cursor: pointer;
+}
+
+#boxOne_note {
+	top: 50px;
+	left: 175px;
+}

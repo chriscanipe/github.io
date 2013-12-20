@@ -1,0 +1,118 @@
+
+#header {
+	width: 100%;
+	float: left;
+}
+
+#chartNav {
+	width: 100%;
+	float: left;
+}
+
+.content {
+	width: 100%;
+	float: left;
+
+}
+
+.rollBox {
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	border: solid 1px red;
+	cursor: pointer;
+}
+
+.noteBox {
+	height: 250px;
+	width: 150px;
+	font-family: helvetica;
+	padding: 2px;
+	background-color: #E6E9F2;
+	border: 1px solid #BEC2CF;
+	display: none;
+	position: absolute;
+}
+
+#box1 {
+	width: 20px;
+	height: 20px;
+	top: 100px;
+	left: 100px;
+	border: solid 1px black;
+}
+
+#box1_note {
+	top: 10px;
+	left: 530px;
+}
+
+#box2 {
+	width: 20px;
+	height: 20px;
+	top: 200px;
+	left: 100px;
+	border: solid 1px black;
+}
+
+#box2_note {
+	top: 10px;
+	left: 530px;
+}
+
+#box3 {
+	width: 20px;
+	height: 20px;
+	top: 300px;
+	left: 100px;
+	border: solid 1px black;
+}
+
+#box3_note {
+	top: 10px;
+	left: 530px;
+}
+
+#box4 {
+	width: 20px;
+	height: 20px;
+	top: 400px;
+	left: 100px;
+	border: solid 1px black;
+}
+
+#box4_note {
+	top: 10px;
+	left: 530px;
+}
+
+.node circle {
+	stroke: #909090;
+	fill: steelblue;
+	stroke-width: 2px;
+}
+
+.node {
+	font: 10px sans-serif;
+}
+
+.link {
+	fill: none;
+	stroke: #ccc;
+	stroke-width: 1.5px;
+}
+
+#chart {
+	width: 780px;
+	height: 960px;
+	position: relative;
+	overflow: hidden;
+}
+
+#articleText {
+	color: #2E2E2E;
+}
+
+#articleTitle {
+	color: #1677C7;
+}
